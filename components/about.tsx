@@ -18,7 +18,7 @@ export default function About() {
       id="about"
     >
       <SectionHeading>About me</SectionHeading>
-      <p className='mb-3'>
+      <p className='mb-3 text-justify'>
             Welcome to my portfolio! I am a{" "}<span className='font-medium'>dedicated and innovative</span> individual with a{" "}<span className='font-medium'> passion to create cutting-edge products</span>. My background includes valuable stints at both a{" "}<span className='italic'>Venture Capital</span> firm in Singapore, where I honed my skills as a{" "}<span className='font-medium'>  Product Manager</span>, and a {" "}<span className='italic'> Silicon Valley-based MedTech Startup</span>, where I contributed as a{" "}<span className='font-medium'>Software Engineer, Hardware and Electronics Engineer and UI/UX Designer</span>. These diverse roles have not only deepened my understanding of product development but also exposed me to the intricacies of the{" "}<span className='underline'>startup ecosystem</span> which I enjoy being a part of.
       </p>
     </motion.section>
